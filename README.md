@@ -19,4 +19,6 @@ g++ main.c -lGL -lGLU -lGLEW -lglut -o main
 ```
 
 ## ScreenShots
+![](https://github.com/haxzie/thrissur-pooram-CG-mini-project/raw/master/images/ss1.png)
+![](https://github.com/haxzie/thrissur-pooram-CG-mini-project/raw/master/images/ss2.png)
 
